@@ -74,3 +74,7 @@ Python, PyTorch, torchvision, EfficientNet-B4, ResNet-18, MTCNN, OpenCV, scikit-
 ## Licence
 
 See [LICENSE](LICENSE).
+
+## Evaluation evidence
+
+See [evaluation evidence](docs/evaluation-evidence.md) for test-frame selection, the saved confusion matrix, accuracy calculation and evaluation limitations.
